@@ -144,7 +144,7 @@ Where:
 - 🔹 **P** = Connected components (1 in this case)  
 
 Resulting in:  
-M = 15 - 12 + 2(1) = 5  
+M = 15 - 13 + 2(1) = 4  
 
 ## References  
 
